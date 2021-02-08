@@ -1,6 +1,3 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-console */
 const fs = require('fs');
 
 const index = fs.readFileSync(`${__dirname}/../client/client.html`);
